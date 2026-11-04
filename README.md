@@ -26,3 +26,8 @@ Technologies Used
 - XML
 - Android Studio
 - Material Design Components
+
+The application includes three working screens:
+- Splash Screen
+- Login Screen
+- Register Screen
