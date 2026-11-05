@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="splash_tagline">Welcome</string>
+    <string name="login_title">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="button_sign_in">Sign In</string>
+    <string name="login_no_account">No account yet? Register</string>
+    <string name="error_email_empty">Enter your email</string>
+    <string name="error_email_invalid">Invalid email address</string>
+    <string name="error_password_empty">Enter your password</string>
+    <string name="login_fields_ok">Fields are valid</string>
+    <string name="register_coming_soon">Register screen is coming next</string>
+    <string name="remember_me">Remember me</string>
+    <string name="snackbar_forget">Forget the saved login details?</string>
+    <string name="snackbar_confirm">Yes, forget</string>
 </resources>
